@@ -1,0 +1,7 @@
+__dump__
+__pycache__
+.vscode
+.venv
+backup.txt
+users.txt
+log.txt
