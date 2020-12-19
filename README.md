@@ -1,7 +1,7 @@
 # Remove Gender Field (or any Field) from Alma User Record
-### Currently Alma doesn't support the ability to remove a value from the "gender" field in a patron's user record using a job.
+Currently Alma doesn't support the ability to remove a value from the "gender" field in a patron's user record using a job.
 
-### This script runs through a text file of patron primary ID's and removing the gender field from each record.
+This script runs through a text file of patron primary ID's and removing the gender field from each record.
 
 # How it works
 This script first calls the GetUserDetails API to retrieve a user's patron data as XML.
